@@ -25,15 +25,26 @@ input
 #cartoon img{
     margin: 50px;
 }
-#home{
+
+.header_entrepreneur{
+    line-height: 2;
     background-color: blueviolet;
 }
-#website{
-    background-color: greenyellow;
+.cartoon{
+    cursor: pointer;
 }
-#cartoon{
-    background-color: cornflowerblue;
+.cartoon hr{
+    margin-bottom: 10px;
 }
-#contact{
-    background-color: greenyellow;
+.modal-content{
+    margin-top: 100px;
+}
+.img_modal{
+    display: inline-block;
+}
+.p_modal{
+    margin-top: 10px;
+}
+.modal-body{
+    text-align: center;
 }
