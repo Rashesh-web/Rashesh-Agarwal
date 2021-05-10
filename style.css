@@ -1,0 +1,39 @@
+body{
+    text-align: center;
+    background-color: violet;
+}
+#contact iframe
+{
+    width: 100%;
+}
+.contact_1 h3
+{
+    display: inline;
+}
+.contact_1 a
+{
+    text-shadow: none;
+}
+ 
+input
+{
+    background: grey
+}
+#website a{
+    font-size: 25px;
+}
+#cartoon img{
+    margin: 50px;
+}
+#home{
+    background-color: blueviolet;
+}
+#website{
+    background-color: greenyellow;
+}
+#cartoon{
+    background-color: cornflowerblue;
+}
+#contact{
+    background-color: greenyellow;
+}
